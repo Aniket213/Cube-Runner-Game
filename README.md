@@ -7,7 +7,7 @@ Cube Runner is a simple and engaging Unity game where players control a cube to 
 ## Gameplay
 
 - **Objective**: Collect as many red cubes as possible while avoiding other colored obstacles.
-- **Controls**: Use arrow keys or swipe gestures to move the player cube forward, left, and right.
+- **Controls**: Use arrow keys or swipe gestures to move the player cube left and right.
 - **Scoring**: The score is based on the number of red cubes collected.
 
 ## Screenshots
